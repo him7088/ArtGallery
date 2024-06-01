@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="image1_title">Self Portrait – Amrita Sher-Gil</string>
+    <string name="image2_title">Bharat Mata – Abanindranath Tagore</string>
+    <string name="image3_title">Shakuntala – Raja Ravi Verma</string>
+    <string name="image4_title">Mahishasura – Tyeb Mehta</string>
+    <string name="image5_title">Three Pujarins – Jamini Roy</string>
+    <string name="image6_title">Horses – Maqbool Fida Husain</string>
+    <string name="image7_title">Krishna  – Nicholas Roerich</string>
+    <string name="image8_title">Bindu – Sayed Haider Raza LH</string>
+    <string name="image1_desc">
+        This is a 1931 self-portrait by Amrita Sher-Gil, depicting one of India’s most important modern artists at the age of 18.Sher-Gil’s self-portraits are painted with an intensity that is almost hypnotic, drawing the viewer into the innermost psyche of the artist, where one discovers a sea of melancholy.
+    </string>
+    <string name="image2_desc">
+        One of the most iconic paintings of Abanindranath Tagore, Bharat Mata depicts a saffron clad woman, dressed like a sadhvi, holding a book, sheaves of paddy, a piece of white cloth and a garland in her four hands.Immensely important because of its emotional and historical value, the painting became immensely popular among the nationalists in those days, especially in the wake of Lord Curzon’s plan to bifurcate Bengal.
+    </string>
+    <string name="image3_desc">
+        Shakuntala is an epic painting by celebrated Indian painter, Raja Ravi Varma. Ravi Varma, depicts Shakuntala, an important character of Mahabaratha, pretending to remove a thorn from her foot, while actually looking for her husband/lover, Dushyantha, while her friends call her bluff.
+    </string>
+    <string name="image4_desc">
+        The most important work by India’s finest contemporary artist, Tyeb Mehta’s Mahishasura – a reinterpretation of the tale of the demon by the same name – was the first Indian painting to cross the million dollar mark, selling for a whopping $1.584 million at Christie’s in 2005. The painting happened after Tyeb’s visit to Shantiniketan where he was inspired by the legend of Mahishasura.
+    </string>
+    <string name="image5_desc">
+        Jamini Roy, the eminent Bengali artist who is counted among the early modernists of twentieth century Indian art, created a masterpiece when he painted three almond-eyed priestesses for his work named Three Pujarins. Inspired by the folk art tradition of Bengal, Roy experimented with vibrant colours and developed his own individual style of painting that resulted in artwork that were a visual feast.
+    </string>
+    <string name="image6_desc">
+        Early in his painting career, and until his death, Maqbool Fida Husain, one of India’s most prolific painters, enjoyed depicting the lively and free spirit of horses in many of his works. This painting by the maestro captures the power and energy of three horses through bold outlines that define the strong beasts in full gallop.
+    </string>
+    <string name="image7_desc">
+        One cannot overlook the claim of Krishna (Spring in Kullu) by famous Russian artist Nicholas Roerich while talking about famous Indian art work. The painting that is on permanent display at Nicholas Roerich Museum, New York has Krishna playing the flute under a tree in blossom with majestic snow covered mountains in the backdrop.
+    </string>
+    <string name="image8_desc">
+        A legendary modern artist who popularised Indian iconography globally, Syed Haider Raza never tired of the bindu‘or the shunya that became the focal point of energy in his work. Through his long and prolific career — his first solo exhibition was in the year 1946 — Raza’s art evolved continuously. But by the ’70s, he had found the motif that would make him a legend: the bindu. Raza once stated that “Bindu is a source of energy, source of life. Life begins here, attains infinity here.”
+    </string>
+</resources>
